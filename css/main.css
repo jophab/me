@@ -1,0 +1,42 @@
+* {
+margin:0px;
+padding:0px;
+}
+div#side {
+margin-top:20px;
+width:100%;
+
+background-color:#f4f4f4;
+float:left;
+text-align:center;
+padding:10px;
+margin:0px auto;
+
+}
+
+
+div#side h2 {
+	font-family:tahoma;
+color:midnightblue;
+padding:10px;
+}
+div#side h3 {
+color:midnightblue;
+font-family:Courgette,tahoma;
+font-size:30px;
+}
+div#side h3,h4 {
+padding:5px;
+
+}
+div#side h4 {
+	font-family:Lobster;
+	font-size:20px;
+}
+
+#mainimage {
+margin: 10px;
+border:8px solid white;
+border-radius:50%;
+width:200px;
+}
